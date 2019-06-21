@@ -32,7 +32,7 @@ Los Angeles, CA 90089
 **Doctoral coursework in psychology**, *New York University*, New York, NY.
 
 `2015-2017`
-**M.Sc., Mind & Brain**, *Humboldt Universität zu Berlin*, Berlin, Germany.
+**M.Sc., Interdisciplinary Neuroscience**, *Humboldt Universität zu Berlin*, Berlin, Germany.
 
 `2009-2013`
 **B.S., Neuroscience**, *University of Southern California*, Los Angeles, CA, USA.
@@ -40,23 +40,23 @@ Los Angeles, CA 90089
 ## Basic research
 
 `2018-present`
-**Doctoral research**, *Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
+**Doctoral research**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
 PI: Dr. Mara Mather
 
 `2017-2018`
-**Doctoral research**, *Department of Psychology, New York University*, Los Angeles, CA, USA.
+**Doctoral research**, *Phelps Lab, Department of Psychology, New York University*, Los Angeles, CA, USA.
 PI: Dr. Elizabeth Phelps
 
 `2016-2017`
-**M.Sc. thesis research**, *Center for Lifespan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.
+**Master thesis research**, *ConMem Project, Center for Lifespan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.
 PI: Dr. Ulman Lindenberger
 
 `2015-2017`
-**M.Sc. student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.
+**Student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.
 PI: Dr. Ralph Hertwig
 
 `2011-2013`
-**Undergraduate research assistant**, *Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
+**Undergraduate research assistant**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
 PI: Dr. Mara Mather
 
 ## Applied research
@@ -69,6 +69,9 @@ PI: Dr. Jeffrey Upperman
 `2017-2022`
 **National Science Foundation Graduate Research Fellowship**
 
+`2017-2022`
+**Henry M. MacCracken Graduate Fellowship** (accepted for 1 year)
+
 ## Publications
 
 ## Abstracts
@@ -78,6 +81,14 @@ PI: Dr. Jeffrey Upperman
 ## Service
 
 ## Skills
+
+**Programming:** R, MATLAB, Python (basic), Unix, LaTeX
+
+**Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
+
+**Research methods:** human fear conditioning using shock, neuroimaging data collection and analysis (functional, structural, diffusion-weighted, neuromelanin-sensitive), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), meta-analysis
+
+**Languages:** English (native), German (fluent), French (basic)
 
 <!-- ### Footer
 
