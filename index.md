@@ -1,15 +1,27 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shelby Bachman's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shelby Bachman
+PhD Student
+
+3715 McClintock Avenue, Room 351
+<br>
+Davis School of Gerontology
+<br>
+University of Southern California
+<br>
+Los Angeles, CA 90089
+<br>
+
+*sbachman [at] usc [at] edu*
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://shelbybachman.github.io"><i class="fas fa-home"></i> shelbybachman.github.io</a> - 
+  <a href="https://github.com/shelbybachman"><i class="fab fa-github"></i>shelbybachman</a> - 
+  <a href="https://orcid.org/0000-0002-4460-4661"><i class="ai ai-orcid"></i> 0000-0002-4460-4661</a> - 
+  <a href="https://www.researchgate.net/profile/Shelby_Bachman"><i class="ai ai-researchgate"></i>Shelby Bachman</a> - 
 </div>
-
 
 ## Currently
 
