@@ -37,9 +37,37 @@ Los Angeles, CA 90089
 `2009-2013`
 **B.S., Neuroscience**, *University of Southern California*, Los Angeles, CA, USA.
 
-## Research Experience
+## Basic research
+
+`2018-present`
+**Doctoral research**, *Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
+PI: Dr. Mara Mather
+
+`2017-2018`
+**Doctoral research**, *Department of Psychology, New York University*, Los Angeles, CA, USA.
+PI: Dr. Elizabeth Phelps
+
+`2016-2017`
+**M.Sc. thesis research**, *Center for Lifespan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.
+PI: Dr. Ulman Lindenberger
+
+`2015-2017`
+**M.Sc. student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.
+PI: Dr. Ralph Hertwig
+
+`2011-2013`
+**Undergraduate research assistant**, *Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
+PI: Dr. Mara Mather
+
+## Applied research
+
+**Trauma program assistant**, *Division of Pediatric Surgery, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
+PI: Dr. Jeffrey Upperman
 
 ## Funding & Awards
+
+`2017-2022`
+**National Science Foundation Graduate Research Fellowship**
 
 ## Publications
 
