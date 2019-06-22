@@ -26,43 +26,46 @@ Los Angeles, CA 90089
 ## Education
 
 `2018-present`
-**Ph.D. Gerontology**, *University of Southern California*, Los Angeles, CA, USA.
+**Ph.D., Gerontology**, *University of Southern California*, Los Angeles, CA, USA.
 
 `2018-present`
-**Doctoral coursework in psychology**, *New York University*, New York, NY.
+**Doctoral coursework**, *New York University*, New York, NY.
+*Courses in learning, memory, statistics, and cognitive modeling*
 
 `2015-2017`
 **M.Sc., Interdisciplinary Neuroscience**, *Humboldt Universität zu Berlin*, Berlin, Germany.
+*Thesis: Locus coeruleus MRI contrast and cortical thickness across the lifespan*
 
 `2009-2013`
 **B.S., Neuroscience**, *University of Southern California*, Los Angeles, CA, USA.
+*Thesis: Aging as a model of structural decline in the amygdala-vPFC pathway*
 
 ## Basic research
 
 `2018-present`
 **Doctoral research**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
-PI: Dr. Mara Mather
+*PI: Dr. Mara Mather*
 
 `2017-2018`
 **Doctoral research**, *Phelps Lab, Department of Psychology, New York University*, Los Angeles, CA, USA.
-PI: Dr. Elizabeth Phelps
+*PI: Dr. Elizabeth Phelps*
 
 `2016-2017`
-**Master thesis research**, *ConMem Project, Center for Lifespan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.
-PI: Dr. Ulman Lindenberger
+**Master thesis research**, *Center for Lifepsan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.
+*PI: Dr. Ulman Lindenberger*
 
 `2015-2017`
 **Student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.
-PI: Dr. Ralph Hertwig
+*PI: Dr. Ralph Hertwig*
 
 `2011-2013`
 **Undergraduate research assistant**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
-PI: Dr. Mara Mather
+*PI: Dr. Mara Mather*
 
 ## Applied research
 
 **Trauma program assistant**, *Division of Pediatric Surgery, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
-PI: Dr. Jeffrey Upperman
+*PI: Dr. Jeffrey Upperman*
 
 ## Funding & Awards
 
@@ -70,15 +73,33 @@ PI: Dr. Jeffrey Upperman
 **National Science Foundation Graduate Research Fellowship**
 
 `2017-2022`
-**Henry M. MacCracken Graduate Fellowship** (accepted for 1 year)
+**NYU Henry M. MacCracken Graduate Fellowship** (accepted for 1 year)
+
+`2016-2017`
+**German Academic Exchange Service (DAAD) Graduate Study Scholarship**
+
+`2013`
+**USC Emily Josephine Bradley Bovard Award**
+
+`2012`
+**Phi Beta Kappa National Honor Society**
+
+`2009-2013`
+**USC Trustee Scholarship**
 
 ## Publications
 
-## Abstracts
+Kurvers RHJM, de Zoete A, **Bachman SL**, Ostelo R, Algra PR, Kurvers RH. Combining   independent decisions increases diagnostic accuracy of reading lumbosacral radiographs and magnetic resonance imaging. *PLoS One*. 2018;*13*(4); e0194128. doi: [10.1371/journal.pone.0194128](https://doi.org/10.1371/journal.pone.0194128)
 
-## Teaching & Mentoring
+## Presentations & Posters
+
+## Mentoring
+
+## Teaching
 
 ## Service
+
+## Statistical Training
 
 ## Skills
 
