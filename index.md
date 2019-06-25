@@ -29,43 +29,43 @@ Los Angeles, CA 90089
 **Ph.D., Gerontology**, *University of Southern California*, Los Angeles, CA, USA.
 
 `2018-present`
-**Doctoral coursework**, *New York University*, New York, NY.
+**Doctoral coursework**, *New York University*, New York, NY.<br>
 *Courses in neural science, psychology & data science*
 
 `2015-2017`
-**M.Sc., Interdisciplinary Neuroscience**, *Humboldt Universität zu Berlin*, Berlin, Germany.
+**M.Sc., Interdisciplinary Neuroscience**, *Humboldt Universität zu Berlin*, Berlin, Germany.<br>
 *Thesis: Locus coeruleus MRI contrast and cortical thickness across the lifespan*
 
 `2009-2013`
-**B.S., Neuroscience**, *University of Southern California*, Los Angeles, CA, USA.
+**B.S., Neuroscience**, *University of Southern California*, Los Angeles, CA, USA.<br>
 *Thesis: Aging as a model of structural decline in the amygdala-vPFC pathway*
 
 ## Basic research
 
 `2018-present`
-**Doctoral research**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
+**Doctoral research**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.<br>
 *PI: Dr. Mara Mather*
 
 `2017-2018`
-**Doctoral research**, *Phelps Lab, Department of Psychology, New York University*, Los Angeles, CA, USA.
+**Doctoral research**, *Phelps Lab, Department of Psychology, New York University*, Los Angeles, CA, USA.<br>
 *PI: Dr. Elizabeth Phelps*
 
 `2016-2017`
-**Master thesis research**, *Center for Lifepsan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.
+**Master thesis research**, *Center for Lifepsan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.<br>
 *PI: Dr. Ulman Lindenberger*
 
 `2015-2017`
-**Student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.
+**Student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.<br>
 *PI: Dr. Ralph Hertwig*
 
 `2011-2013`
-**Undergraduate research assistant**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.
+**Undergraduate research assistant**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.<br>
 *PI: Dr. Mara Mather*
 
 ## Applied research
 
 `2013-2015`
-**Trauma program assistant**, *Division of Pediatric Surgery, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
+**Trauma program assistant**, *Division of Pediatric Surgery, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.<br>
 *PI: Dr. Jeffrey Upperman*
 
 ## Funding & Awards
@@ -142,7 +142,9 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 `2018`
 **Azeezat Siyanbola**<sup>2</sup>, Barnard College undergraduate student
 
+<br>
 <sup>1</sup>Received USC Provost’s Undergraduate Research Fellowship in Summer 2019
+<br>
 <sup>2</sup>NYU Summer Undergraduate Research Program participant in Summer 2018
 
 ## Teaching
@@ -156,13 +158,13 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 ## University Service
 
 `2019-present`
-**Graduate Student Government Senator**, *University of Southern California*, Los Angeles, CA, USA.
+**Senator**, *Graduate Student Government, University of Southern California*, Los Angeles, CA, USA.
 
 `2010-2013`
-**Undergraduate Neuroscience Committee Student Representative**, *University of Southern California*, Los Angeles, CA, USA.
+**Student Representative**, *Undergraduate Neuroscience Committee, University of Southern California*, Los Angeles, CA, USA.
 
 `2010-2012`
-**Resident Advisor**, *University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2012-2013.
+**Resident Advisor**, *Department of Residential Education, University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2012-2013.
 
 ## Academic Service
 
@@ -171,14 +173,14 @@ Ad-hoc reviewer: *Social Cognitive & Affective Neuroscience*, *Journal of Experi
 ## Statistical Training
 
 **Data Science Specialization**, *Johns Hopkins University on Coursera* (received full financial aid for all courses)
-- The Data Scientist’s Toolbox. Certificate earned on January 21, 2018
-- R Programming. Certificate earned on February 8, 2018
-- Getting & Cleaning Data. Certificate earned on March 19, 2018
-- Exploratory Data Analysis. Certificate earned on May 7, 2018
-- Reproducible Research. Certificate earned on June 19, 2018
-- Statistical Inference. Certificate earned on August 9, 2018
-- Regression Models. Certificate earned on January 28, 2019
-- Practical Machine Learning. Certificate earned on June 22, 2019
+- *The Data Scientist’s Toolbox*. Certificate earned on January 21, 2018
+- *R Programming*. Certificate earned on February 8, 2018
+- *Getting & Cleaning Data*. Certificate earned on March 19, 2018
+- *Exploratory Data Analysis*. Certificate earned on May 7, 2018
+- *Reproducible Research*. Certificate earned on June 19, 2018
+- *Statistical Inference*. Certificate earned on August 9, 2018
+- *Regression Models*. Certificate earned on January 28, 2019
+- *Practical Machine Learning*. Certificate earned on June 22, 2019
 
 ## Skills
 
