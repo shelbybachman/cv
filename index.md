@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Shelby Bachman's CV
+title: Shelby Bachman
 ---
 # Shelby Bachman
 PhD Student
