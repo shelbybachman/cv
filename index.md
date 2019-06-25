@@ -137,15 +137,12 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 **Katherine Chan**, USC master student
 
 `2018-present`
-**Ivy Hsu**<sup>1</sup>, USC undergraduate student
+**Ivy Hsu**<sup>1</sup>, USC undergraduate student<br>
+*Received USC Provost’s Undergraduate Research Fellowship*
 
 `2018`
-**Azeezat Siyanbola**<sup>2</sup>, Barnard College undergraduate student
-
-<br>
-<sup>1</sup>Received USC Provost’s Undergraduate Research Fellowship in Summer 2019
-<br>
-<sup>2</sup>NYU Summer Undergraduate Research Program participant in Summer 2018
+**Azeezat Siyanbola**<sup>2</sup>, Barnard College undergraduate student<br>
+*NYU Summer Undergraduate Research Program participant*
 
 ## Teaching
 
