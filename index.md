@@ -163,10 +163,6 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 `2010-2012`
 **Resident Advisor**, *Department of Residential Education, University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2012-2013.
 
-## Academic Service
-
-Ad-hoc reviewer: *Social Cognitive & Affective Neuroscience*, *Journal of Experimental Psychology: General*
-
 ## Statistical Training
 
 **Data Science Specialization**, *Johns Hopkins University on Coursera* (received full financial aid for all courses)
