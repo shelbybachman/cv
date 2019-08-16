@@ -178,6 +178,7 @@ Ad-hoc reviewer: *Social Cognitive & Affective Neuroscience*, *Journal of Experi
 - *Statistical Inference*. Certificate earned on August 9, 2018
 - *Regression Models*. Certificate earned on January 28, 2019
 - *Practical Machine Learning*. Certificate earned on June 22, 2019
+- *Developing Data Products*. Certificate earned on August 15, 2019
 
 ## Skills
 
@@ -187,8 +188,8 @@ Ad-hoc reviewer: *Social Cognitive & Affective Neuroscience*, *Journal of Experi
 
 **Research methods:** human fear conditioning using shock, neuroimaging data collection and analysis (functional, structural, diffusion-weighted, neuromelanin-sensitive), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), meta-analysis
 
-**Languages:** English (native), German (fluent), French (basic)
+**Languages:** English (native), German (advanced), French (basic)
 
 <!-- ### Footer
 
-Last updated: June 2019 -->
+Last updated: August 2019 -->
