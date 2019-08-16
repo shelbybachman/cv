@@ -182,7 +182,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 **Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
 
-**Research methods:** human fear conditioning using shock, neuroimaging data collection and analysis (functional, structural, diffusion-weighted, neuromelanin-sensitive), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), meta-analysis
+**Research methods:** euroimaging data collection and analysis (structural, diffusion-weighted, neuromelanin-sensitive), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), human fear conditioning using shock, meta-analysis
 
 **Languages:** English (native), German (advanced), French (basic)
 
