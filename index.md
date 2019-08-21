@@ -165,7 +165,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Statistical Training
 
-**Data Science Specialization**, *Johns Hopkins University on Coursera* (received full financial aid for all courses)
+**Data Science Specialization**, *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
 - *The Data Scientist’s Toolbox*. Certificate earned on January 21, 2018
 - *R Programming*. Certificate earned on February 8, 2018
 - *Getting & Cleaning Data*. Certificate earned on March 19, 2018
@@ -182,7 +182,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 **Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
 
-**Research methods:** euroimaging data collection and analysis (structural, diffusion-weighted, neuromelanin-sensitive), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), human fear conditioning using shock, meta-analysis
+**Research methods:** neuroimaging data collection and analysis (structural, diffusion-weighted, neuromelanin-sensitive, functional), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), human fear conditioning using shock, meta-analysis
 
 **Languages:** English (native), German (advanced), French (basic)
 
