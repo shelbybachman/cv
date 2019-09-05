@@ -146,6 +146,9 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Teaching
 
+`Summer 2019`
+**Research Assistant Tutorial**, *R, MATLAB & Psychtoolbox Basics*. All tutorial materials are available (here)[https://shelbybachman.github.io/RA-tutorial-2019/].
+
 `2013-2014`
 **Safety Educator**, *Injury Prevention Program, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
 
