@@ -147,13 +147,13 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 ## Teaching
 
 `Summer 2019`
-**Research Assistant Tutorial**, *R, MATLAB & Psychtoolbox Basics*. All tutorial materials are available (here)[https://shelbybachman.github.io/RA-tutorial-2019/].
+**Tutorial on R, MATLAB & Psychtoolbox**. Designed for research assistants in the Mather Lab. All materials available [here](https://shelbybachman.github.io/RA-tutorial-2019/).
 
 `2013-2014`
-**Safety Educator**, *Injury Prevention Program, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
+**Home & Child Passenger Safety Courses**, *Injury Prevention Program, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
 
 `2012-2013`
-**Supplemental Instruction Leader**, *Cellular & Organismal Biology (BISC 120/121), University of Southern California*, Los Angeles, CA, USA. 
+**Supplemental Instruction Leader for Cellular & Organismal Biology (BISC 120/121)**, *University of Southern California*, Los Angeles, CA, USA. 
 
 ## University Service
 
@@ -181,7 +181,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Skills
 
-**Programming:** R, MATLAB, Python (basic), Unix, LaTeX
+**Programming:** R, MATLAB, Unix, LaTeX, Python (basic)
 
 **Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
 
