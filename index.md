@@ -51,7 +51,7 @@ Los Angeles, CA 90089
 *PI: Dr. Elizabeth Phelps*
 
 `2016-2017`
-**Master thesis research**, *Center for Lifepsan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.<br>
+**Master thesis research**, *Center for Lifespan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.<br>
 *PI: Dr. Ulman Lindenberger*
 
 `2015-2017`
