@@ -106,7 +106,10 @@ Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to as
 
 Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. Neuropsychology. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
 
-## Presentations & Posters
+## Conference presentations
+**Bachman S**, Dahl M, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. Magdeburg, Germany, 2019.
+
+## Conference posters
 Clewett D, Yi D, **Bachman S**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society. Boston, MA, 2018.
 
 Arbogast H, **Bachman SL**, Gu Y, Arriaga A, Burke RV, Upperman JS. Increasing safety in transportation of children with special healthcare needs: A closer look at a pediatric hospital’s approach to addressing gaps. 143rd APHA Annual Meeting. Chicago, IL, 2015.
@@ -167,6 +170,8 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 **Resident Advisor**, *Department of Residential Education, University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2012-2013.
 
 ## Statistical Training
+
+**Structural Equation Modeling with lavaan**, *Ghent University*, Belgium, 2020
 
 **Data Science Specialization**, *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
 - *The Data Scientist’s Toolbox*. Certificate earned on January 21, 2018
