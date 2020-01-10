@@ -171,7 +171,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Statistical Training
 
-`January 2020`
+`2020`
 **Structural Equation Modeling with lavaan**, *Ghent University*, Belgium
 
 `2018-present`
