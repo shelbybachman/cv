@@ -171,8 +171,10 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Statistical Training
 
-**Structural Equation Modeling with lavaan**, *Ghent University*, Belgium, 2020
+`January 2020`
+**Structural Equation Modeling with lavaan**, *Ghent University*, Belgium
 
+`2018-present`
 **Data Science Specialization**, *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
 - *The Data Scientist’s Toolbox*. Certificate earned on January 21, 2018
 - *R Programming*. Certificate earned on February 8, 2018
