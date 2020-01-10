@@ -28,7 +28,7 @@ Los Angeles, CA 90089
 `2018-present`
 **Ph.D., Gerontology**, *University of Southern California*, Los Angeles, CA, USA.
 
-`2018-present`
+`2017-present`
 **Doctoral coursework**, *New York University*, New York, NY.<br>
 *Courses in neural science, psychology & data science*
 
