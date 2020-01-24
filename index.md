@@ -5,7 +5,7 @@ title: Shelby Bachman
 # Shelby Bachman
 PhD Student
 
-3715 McClintock Avenue, Room 351
+3715 McClintock Avenue, Room 341
 <br>
 Davis School of Gerontology
 <br>
@@ -130,8 +130,11 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Mentoring
 
+`2020-
+
 `2019-present`
 **Sumedha Attanti**, USC undergraduate student
+*Received Undergraduate Research Associates Program Fellowship in Spring 2020*
 
 `2019-present`
 **Juliana Lee**, USC master student
@@ -141,7 +144,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 `2018-present`
 **Ivy Hsu**, USC undergraduate student<br>
-*Received USC Provost’s Undergraduate Research Fellowship*
+*Received USC Provost’s Undergraduate Research Fellowship in Summer 2019*
 
 `2018`
 **Azeezat Siyanbola**, Barnard College undergraduate student<br>
@@ -194,8 +197,8 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 **Research methods:** neuroimaging data collection and analysis (structural, diffusion-weighted, neuromelanin-sensitive, functional), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), human fear conditioning using shock, meta-analysis
 
-**Languages:** English (native), German (advanced), French (basic)
+**Languages:** English (native), German (fluent), French (basic)
 
 <!-- ### Footer
 
-Last updated: August 2019 -->
+Last updated: January 2020 -->
