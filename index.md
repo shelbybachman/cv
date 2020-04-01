@@ -106,8 +106,11 @@ Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to as
 
 Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. Neuropsychology. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
 
+## Preprints
+**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. bioRxiv 2020.03.14.991596. doi: [10.1101/2020.03.14.991596](https://doi.org/10.1101/2020.03.14.991596)
+
 ## Conference presentations
-**Bachman S**, Dahl M, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. 2nd Locus Coeruleus Imaging Meeting. Magdeburg, Germany, 2019.
+**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. 2nd Locus Coeruleus Imaging Meeting. Magdeburg, Germany, 2019.
 
 ## Conference posters
 Clewett D, Yi D, **Bachman S**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society. Boston, MA, 2018.
