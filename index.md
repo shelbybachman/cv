@@ -130,8 +130,11 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Mentoring
 
+`2020-present`
+**Michael Kwan**, USC undergraduate student
+
 `2019-present`
-**Sumedha Attanti**, USC undergraduate student
+**Sumedha Attanti**, USC undergraduate student<br>
 *Received Undergraduate Research Associates Program Fellowship in Spring 2020*
 
 `2019-present`
