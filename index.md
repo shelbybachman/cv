@@ -196,17 +196,18 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 `2020`
 **Structural Equation Modeling with lavaan**, *Ghent University*, Belgium
 
-`2018-present`
-**Data Science Specialization**, *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
-- *The Data Scientist’s Toolbox*. Certificate earned on January 21, 2018
-- *R Programming*. Certificate earned on February 8, 2018
-- *Getting & Cleaning Data*. Certificate earned on March 19, 2018
-- *Exploratory Data Analysis*. Certificate earned on May 7, 2018
-- *Reproducible Research*. Certificate earned on June 19, 2018
-- *Statistical Inference*. Certificate earned on August 9, 2018
-- *Regression Models*. Certificate earned on January 28, 2019
-- *Practical Machine Learning*. Certificate earned on June 22, 2019
-- *Developing Data Products*. Certificate earned on August 15, 2019
+`2018-2020`
+**[Data Science Specialization](https://coursera.org/share/cf537c7e4ff559eeeadbf537f8994164)**, *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
+- *The Data Scientist’s Toolbox*. [Certificate](https://coursera.org/share/aa6da49074f49f9de26813dc0ceae8f1) earned on January 21, 2018
+- *R Programming*. [Certificate](https://coursera.org/share/69783ae0b1e33446e75857dae84ef48f) earned on February 8, 2018
+- *Getting & Cleaning Data*. [Certificate](https://coursera.org/share/ef5dd3a25095876566f14ca3df679f5e) earned on March 19, 2018
+- *Exploratory Data Analysis*. [Certificate](https://coursera.org/share/7ec8c5edc89e7d41921980c2fa13f2a1) earned on May 7, 2018
+- *Reproducible Research*. [Certificate](https://coursera.org/share/d2bd4676b5f495fbdc42afe6d3f00ef3) earned on June 19, 2018
+- *Statistical Inference*. [Certificate](https://coursera.org/share/ccad2f901ebc6ad439b361f62a229d75) earned on August 9, 2018
+- *Regression Models*. [Certificate](https://coursera.org/share/d813b20e2dbec26dab401c0f0d50c2aa) earned on January 28, 2019
+- *Practical Machine Learning*. [Certificate](https://coursera.org/share/ab292eee77f80dfdb0719cfb2d1faa0f) earned on June 22, 2019
+- *Developing Data Products*. [Certificate](https://coursera.org/share/436028c0c920724172e64204eebe2abe) earned on August 15, 2019
+- *Data Science Capstone*. [Certificate](https://coursera.org/share/7cc98a287d83791c31b3c764dc19f63e) earned on May 6, 2020
 
 ## Skills
 
