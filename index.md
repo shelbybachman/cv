@@ -59,7 +59,7 @@ New York University, Los Angeles, CA, USA<br>
 *PI: Dr. Elizabeth Phelps*
 
 `2016-2017`
-**Master thesis research**
+**Master thesis research**<br>
 Center for Lifespan Psychology<br>
 Max Planck Institute for Human Development, Berlin, Germany<br>
 *PI: Dr. Ulman Lindenberger*
