@@ -197,7 +197,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 **Structural Equation Modeling with lavaan**, *Ghent University*, Belgium
 
 `2018-2020`
-**[Data Science Specialization](https://coursera.org/share/cf537c7e4ff559eeeadbf537f8994164)**, *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
+**Data Science Specialization** ([Certificate](https://coursera.org/share/cf537c7e4ff559eeeadbf537f8994164)), *Johns Hopkins University on Coursera* <br>(received full financial aid for all courses)
 - *The Data Scientist’s Toolbox*. [Certificate](https://coursera.org/share/aa6da49074f49f9de26813dc0ceae8f1) earned on January 21, 2018
 - *R Programming*. [Certificate](https://coursera.org/share/69783ae0b1e33446e75857dae84ef48f) earned on February 8, 2018
 - *Getting & Cleaning Data*. [Certificate](https://coursera.org/share/ef5dd3a25095876566f14ca3df679f5e) earned on March 19, 2018
