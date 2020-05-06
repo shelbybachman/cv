@@ -11,7 +11,7 @@ Davis School of Gerontology
 <br>
 University of Southern California
 <br>
-Los Angeles, CA 90089
+Los Angeles, CA, USA 90089
 <br>
 
 *sbachman [at] usc [at] edu*
@@ -26,46 +26,61 @@ Los Angeles, CA 90089
 ## Education
 
 `2018-present`
-**Ph.D., Gerontology**, *University of Southern California*, Los Angeles, CA, USA.
+**Ph.D., Gerontology**<br>
+University of Southern California, Los Angeles, CA, USA
 
 `2017-present`
-**Doctoral coursework**, *New York University*, New York, NY.<br>
+**Doctoral coursework**<br>
+New York University, New York, NY, USA<br>
 *Courses in neural science, psychology & data science*
 
 `2015-2017`
-**M.Sc., Interdisciplinary Neuroscience**, *Humboldt Universität zu Berlin*, Berlin, Germany.<br>
+**M.Sc., Interdisciplinary Neuroscience**<br>
+Humboldt Universität zu Berlin, Berlin, Germany<br>
 *Thesis: Locus coeruleus MRI contrast and cortical thickness across the lifespan*
 
 `2009-2013`
-**B.S., Neuroscience**, *University of Southern California*, Los Angeles, CA, USA.<br>
+**B.S., Neuroscience**<br>
+University of Southern California, Los Angeles, CA, USA<br>
 *Thesis: Aging as a model of structural decline in the amygdala-vPFC pathway*
 
 ## Basic research
 
 `2018-present`
-**Doctoral research**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.<br>
+**Doctoral research**<br>
+Emotion & Cognition Lab, Davis School of Gerontology<br>
+University of Southern California, Los Angeles, CA, USA<br>
 *PI: Dr. Mara Mather*
 
 `2017-2018`
-**Doctoral research**, *Phelps Lab, Department of Psychology, New York University*, Los Angeles, CA, USA.<br>
+**Doctoral research**<br>
+Phelps Lab, Department of Psychology<br>
+New York University, Los Angeles, CA, USA<br>
 *PI: Dr. Elizabeth Phelps*
 
 `2016-2017`
-**Master thesis research**, *Center for Lifespan Psychology, Max Planck Institute for Human Development*, Berlin, Germany.<br>
+**Master thesis research**
+Center for Lifespan Psychology<br>
+Max Planck Institute for Human Development, Berlin, Germany<br>
 *PI: Dr. Ulman Lindenberger*
 
 `2015-2017`
-**Student research assistant**, *Center for Adaptive Rationality, Max Planck Institute for Human Development*, Berlin, Germany.<br>
+**Student research assistant**<br>
+Center for Adaptive Rationality<br>
+Max Planck Institute for Human Development, Berlin, Germany<br>
 *PI: Dr. Ralph Hertwig*
 
 `2011-2013`
-**Undergraduate research assistant**, *Emotion & Cognition Lab, Davis School of Gerontology, University of Southern California*, Los Angeles, CA, USA.<br>
+**Undergraduate research assistant**<br>
+Emotion & Cognition Lab, Davis School of Gerontology<br>
+University of Southern California, Los Angeles, CA, USA<br>
 *PI: Dr. Mara Mather*
 
 ## Applied research
 
 `2013-2015`
-**Trauma program assistant**, *Division of Pediatric Surgery, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.<br>
+**Trauma program assistant**<br>
+Division of Pediatric Surgery, Childrens Hospital Los Angeles, Los Angeles, CA, USA
 *PI: Dr. Jeffrey Upperman*
 
 ## Funding & Awards
@@ -205,4 +220,4 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 <!-- ### Footer
 
-Last updated: January 2020 -->
+Last updated: May 2020 -->
