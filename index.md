@@ -189,7 +189,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 **Student Representative**, *Undergraduate Neuroscience Committee, University of Southern California*, Los Angeles, CA, USA.
 
 `2010-2012`
-**Resident Advisor**, *Department of Residential Education, University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2012-2013.
+**Resident Advisor**, *Department of Residential Education, University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2011-2012.
 
 ## Statistical Training
 
