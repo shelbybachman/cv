@@ -122,13 +122,20 @@ Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to as
 Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. Neuropsychology. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
 
 ## Preprints
+
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. bioRxiv 2020.03.14.991596. doi: [10.1101/2020.03.14.991596](https://doi.org/10.1101/2020.03.14.991596)
 
 ## Conference presentations
+
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. 2nd Locus Coeruleus Imaging Meeting. Magdeburg, Germany, 2019.
 
 ## Conference posters
-Clewett D, Yi D, **Bachman S**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society. Boston, MA, 2018.
+
+Gallant SN, Min J, **Bachman SL**, Mather M. Retroactive selective memory enhancement via emotional arousal. (2019, November). 60th Annual Meeting of the Psychonomics Society. Montreal, Canada, 2019.
+
+Nasseri P, Nashiro K, Yoo HJ, Min J, Cho C, **Bachman SL**, Lehrer P, Thayer J, Chang C, Feng T, Narayanan S, Mather M. (2019, October). Daily practice of heart rate variability biofeedback training affects brain activity during social decision making. Society for Neuroscience Annual Meeting. Chicago, IL, 2019.
+
+Clewett D, Yi D, **Bachman SL**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society. Boston, MA, 2018.
 
 Arbogast H, **Bachman SL**, Gu Y, Arriaga A, Burke RV, Upperman JS. Increasing safety in transportation of children with special healthcare needs: A closer look at a pediatric hospital’s approach to addressing gaps. 143rd APHA Annual Meeting. Chicago, IL, 2015.
 
@@ -211,11 +218,9 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Skills
 
-**Programming:** R, MATLAB, Unix, LaTeX, Python (basic)
+**Programming:** R, MATLAB, Bash, Python (basic), LaTeX, HTML5
 
 **Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
-
-**Research methods:** neuroimaging data collection and analysis (structural, diffusion-weighted, neuromelanin-sensitive, functional), physiological data collection and analysis (GSR, ECG, EMG, respiration, blood pressure), human fear conditioning using shock, meta-analysis
 
 **Languages:** English (native), German (fluent), French (basic)
 
