@@ -80,7 +80,8 @@ University of Southern California, Los Angeles, CA, USA<br>
 
 `2013-2015`
 **Trauma program assistant**<br>
-Division of Pediatric Surgery, Childrens Hospital Los Angeles, Los Angeles, CA, USA
+Division of Pediatric Surgery<br>
+Childrens Hospital Los Angeles, Los Angeles, CA, USA<br>
 *PI: Dr. Jeffrey Upperman*
 
 ## Funding & Awards
@@ -122,6 +123,8 @@ Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to as
 Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. Neuropsychology. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
 
 ## Preprints
+
+Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the salient: Emotion rescues otherwise forgettable memories via neural reactivation and post-encoding hippocampal connectivity bioRxiv 2020.07.07.192252. doi: [10.1101/2020.07.07.192252](https://doi.org/10.1101/2020.07.07.192252)
 
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. bioRxiv 2020.03.14.991596. doi: [10.1101/2020.03.14.991596](https://doi.org/10.1101/2020.03.14.991596)
 
@@ -168,7 +171,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 `2018-2019`
 **Katherine Chan**, USC master student
 
-`2018-present`
+`2018-2020`
 **Ivy Hsu**, USC undergraduate student<br>
 *Received USC Provost’s Undergraduate Research Fellowship in Summer 2019*
 
@@ -189,7 +192,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## University Service
 
-`2019-present`
+`2019-2020`
 **Senator**, *Graduate Student Government, University of Southern California*, Los Angeles, CA, USA.
 
 `2010-2013`
@@ -218,7 +221,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Skills
 
-**Programming:** R, MATLAB, Bash, Python (basic), LaTeX, HTML5
+**Programming:** R, MATLAB, Python (basic), Bash, LaTeX, HTML5
 
 **Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
 
@@ -226,4 +229,4 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 <!-- ### Footer
 
-Last updated: May 2020 -->
+Last updated: August 2020 -->
