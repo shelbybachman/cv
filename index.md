@@ -124,7 +124,7 @@ Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala stru
 
 ## Preprints
 
-Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the salient: Emotion rescues otherwise forgettable memories via neural reactivation and post-encoding hippocampal connectivity bioRxiv 2020.07.07.192252. doi: [10.1101/2020.07.07.192252](https://doi.org/10.1101/2020.07.07.192252)
+Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the salient: Emotion rescues otherwise forgettable memories via neural reactivation and post-encoding hippocampal connectivity. bioRxiv 2020.07.07.192252. doi: [10.1101/2020.07.07.192252](https://doi.org/10.1101/2020.07.07.192252)
 
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. bioRxiv 2020.03.14.991596. doi: [10.1101/2020.03.14.991596](https://doi.org/10.1101/2020.03.14.991596)
 
