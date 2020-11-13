@@ -135,7 +135,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #2bbc8a;
+	color: #3fa682;
 	/*color: #1a0dab;*/
 	margin-top: 3em;
 	position: relative;
@@ -166,7 +166,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #2bbc8a;
+	color: #3fa682;
 	/*color: #1a0dab;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
