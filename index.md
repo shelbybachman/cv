@@ -9,7 +9,7 @@ Davis School of Gerontology
 <br>
 University of Southern California
 <br>
-Los Angeles, CA, USA 90089
+Los Angeles, CA, USA
 <br>
 
 *sbachman [at] usc [at] edu*
