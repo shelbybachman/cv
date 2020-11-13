@@ -26,16 +26,16 @@ Los Angeles, CA, USA 90089
 ## Education
 
 `2018-present`
-**Ph.D., Gerontology**<br>
+**Ph.D., Gerontology**<br> (expected 2022)
 University of Southern California, Los Angeles, CA, USA
 
-`2017-present`
+`2017-2018`
 **Doctoral coursework**<br>
 New York University, New York, NY, USA<br>
-*Courses in neural science, psychology & data science*
+*Courses in psychology, neural science & statistics*
 
 `2015-2017`
-**M.Sc., Interdisciplinary Neuroscience**<br>
+**M.Sc., Mind and Brain**<br>
 Humboldt Universität zu Berlin, Berlin, Germany<br>
 *Thesis: Locus coeruleus MRI contrast and cortical thickness across the lifespan*
 
@@ -86,6 +86,9 @@ Childrens Hospital Los Angeles, Los Angeles, CA, USA<br>
 
 ## Funding & Awards
 
+`2020-present`
+**Predoctoral Trainee, T32 Multidisciplinary Training in Gerontology Program**
+
 `2017-2022`
 **National Science Foundation Graduate Research Fellowship**
 
@@ -130,6 +133,8 @@ Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the sali
 
 ## Conference presentations
 
+**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus integrity is associated with cortical thickness in older adults. To be presented at the 2020 Cognitive Aging Conference (*cancelled due to COVID-19*).
+
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. 2nd Locus Coeruleus Imaging Meeting. Magdeburg, Germany, 2019.
 
 ## Conference posters
@@ -156,6 +161,20 @@ Cleek EA, Salzman GA, **Bachman SL**, Burke RV, Upperman JS. Assessment of a New
 
 Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and losers: Arousal-biased competition and memory. Western Psychological Association Convention. San Francisco, CA, 2012.
 
+## Teaching
+
+`Fall 2020`
+**Intermediate R Tutorial** (tidyverse, R markdown & basic statistics). Designed for research assistants in the Mather Lab. [https://shelbybachman.github.io/RA-tutorial-2020/](https://shelbybachman.github.io/RA-tutorial-2020/)
+
+`Summer 2019`
+**Introductory Tutorial on R, MATLAB & Psychtoolbox**. Designed for research assistants in the Mather Lab. [https://shelbybachman.github.io/RA-tutorial-2019/](https://shelbybachman.github.io/RA-tutorial-2019/)
+
+`2013-2014`
+**Home & Child Passenger Safety Courses**, *Injury Prevention Program, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
+
+`2012-2013`
+**Supplemental Instruction Leader for Cellular & Organismal Biology (BISC 120/121)**, *University of Southern California*, Los Angeles, CA, USA.
+
 ## Mentoring
 
 `2020-present`
@@ -177,22 +196,11 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 `2018`
 **Azeezat Siyanbola**, Barnard College undergraduate student<br>
-*NYU Summer Undergraduate Research Program participant*
-
-## Teaching
-
-`Summer 2019`
-**Tutorial on R, MATLAB & Psychtoolbox**. Designed for research assistants in the Mather Lab. All materials available [here](https://shelbybachman.github.io/RA-tutorial-2019/).
-
-`2013-2014`
-**Home & Child Passenger Safety Courses**, *Injury Prevention Program, Childrens Hospital Los Angeles*, Los Angeles, CA, USA.
-
-`2012-2013`
-**Supplemental Instruction Leader for Cellular & Organismal Biology (BISC 120/121)**, *University of Southern California*, Los Angeles, CA, USA. 
+*NYU Summer Undergraduate Research Program participant* 
 
 ## University Service
 
-`2019-2020`
+`2019-present`
 **Senator**, *Graduate Student Government, University of Southern California*, Los Angeles, CA, USA.
 
 `2010-2013`
@@ -221,12 +229,12 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Skills
 
-**Programming:** R, MATLAB, Python (basic), Bash, LaTeX, HTML5
+**Programming:** R, Python, MATLAB, Bash, HTML5
 
-**Software:** Psychtoolbox, FSL, Freesurfer, Acqknowledge, PsychoPy
+**Software/Tools:** Git, Freesurfer, FSL, Psychtoolbox, Acqknowledge
 
 **Languages:** English (native), German (fluent), French (basic)
 
 <!-- ### Footer
 
-Last updated: August 2020 -->
+Last updated: November 2020 -->
