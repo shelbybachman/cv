@@ -3,10 +3,8 @@ layout: cv
 title: Shelby Bachman
 ---
 # Shelby Bachman
-PhD Student
+PhD Candidate
 
-3715 McClintock Avenue, Room 341
-<br>
 Davis School of Gerontology
 <br>
 University of Southern California
