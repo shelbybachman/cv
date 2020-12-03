@@ -15,10 +15,10 @@ Los Angeles, CA, USA
 *sbachman [at] usc [at] edu*
 
 <div id="webaddress">
-  <a href="https://shelbybachman.github.io"><i class="fas fa-home"></i> shelbybachman.github.io</a><br> 
+  <a href="https://shelbybachman.github.io"><i class="fas fa-home"></i> shelbybachman.github.io</a> - 
   <a href="https://github.com/shelbybachman"><i class="fab fa-github"></i> shelbybachman</a><br>
-  <a href="https://orcid.org/0000-0002-4460-4661"><i class="ai ai-orcid"></i> 0000-0002-4460-4661</a><br> 
-  <a href="https://www.researchgate.net/profile/Shelby_Bachman"><i class="ai ai-researchgate"></i> Shelby Bachman</a><br>
+  <a href="https://orcid.org/0000-0002-4460-4661"><i class="ai ai-orcid"></i> 0000-0002-4460-4661</a> -  
+  <a href="https://www.researchgate.net/profile/Shelby_Bachman"><i class="ai ai-researchgate"></i> Shelby Bachman</a>
 </div>
 
 ## Education
