@@ -107,7 +107,7 @@ Childrens Hospital Los Angeles, Los Angeles, CA, USA<br>
 
 ## Publications
 
-**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. *Neurobiology of Aging*. in press. doi: [10.1016/j.neurobiolaging.2020.12.019](https://doi.org/10.1016/j.neurobiolaging.2020.12.019) | [preprint](https://doi.org/10.1101/2020.03.14.991596)
+**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. *Neurobiology of Aging*. in press. doi: [10.1016/j.neurobiolaging.2020.12.019](https://doi.org/10.1016/j.neurobiolaging.2020.12.019 / [preprint](https://doi.org/10.1101/2020.03.14.991596)
 
 Kurvers RHJM, de Zoete A, **Bachman SL**, Ostelo R, Algra PR, Kurvers RH. Combining independent decisions increases diagnostic accuracy of reading lumbosacral radiographs and magnetic resonance imaging. *PLoS One*. 2018;*13*(4);e0194128. doi: [10.1371/journal.pone.0194128](https://doi.org/10.1371/journal.pone.0194128)
 
