@@ -24,7 +24,7 @@ Los Angeles, CA, USA
 ## Education
 
 `2018-present`
-**Ph.D., Gerontology**<br> (expected 2022)
+**Ph.D., Gerontology** (expected 2022)<br>
 University of Southern California, Los Angeles, CA, USA
 
 `2017-2018`
