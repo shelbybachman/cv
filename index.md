@@ -107,27 +107,27 @@ Childrens Hospital Los Angeles, Los Angeles, CA, USA<br>
 
 ## Publications
 
+**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. *Neurobiology of Aging*. in press. doi: [10.1016/j.neurobiolaging.2020.12.019](https://doi.org/10.1016/j.neurobiolaging.2020.12.019) | [preprint](https://doi.org/10.1101/2020.03.14.991596)
+
 Kurvers RHJM, de Zoete A, **Bachman SL**, Ostelo R, Algra PR, Kurvers RH. Combining independent decisions increases diagnostic accuracy of reading lumbosacral radiographs and magnetic resonance imaging. *PLoS One*. 2018;*13*(4);e0194128. doi: [10.1371/journal.pone.0194128](https://doi.org/10.1371/journal.pone.0194128)
 
-Arbogast H, Patao M, Demeter N, **Bachman S**, Devietti E, Upperman JS, Burke RV. The effectiveness of installing a speed hump in reducing motor vehicle accidents involving pedestrians under the age of 21. Journal of Transport & Health. 2018;8;30-34. doi: [10.1016/j.jth.2017.11.004](https://doi.org/10.1016/j.jth.2017.11.004)
+Arbogast H, Patao M, Demeter N, **Bachman S**, Devietti E, Upperman JS, Burke RV. The effectiveness of installing a speed hump in reducing motor vehicle accidents involving pedestrians under the age of 21. *Journal of Transport & Health*. 2018;8;30-34. doi: [10.1016/j.jth.2017.11.004](https://doi.org/10.1016/j.jth.2017.11.004)
 
-**Bachman SL**, Salzman GA, Burke RV, Arbogast H, Ruiz P, Upperman JS. Observed child restraint misuse in a large, urban community: results from three years of inspection events. Journal of Safety Research. 2016;56:17-22. doi: [10.1016/j.jsr.2015.11.005](https://doi.org/10.1016/j.jsr.2015.11.005)
+**Bachman SL**, Salzman GA, Burke RV, Arbogast H, Ruiz P, Upperman JS. Observed child restraint misuse in a large, urban community: results from three years of inspection events. *Journal of Safety Research*. 2016;56:17-22. doi: [10.1016/j.jsr.2015.11.005](https://doi.org/10.1016/j.jsr.2015.11.005)
 
-**Bachman SL**, Arbogast H, Ruiz P, Farag M, Demeter NE, Upperman JS, Burke RV. A school-hospital partnership increases knowledge of pedestrian and motor vehicle  safety. Journal of Community Health. 2015;40(6):1057-64. doi: [10.1007/s10900-015-0031-3](https://doi.org/10.1007/s10900-015-0031-3)
+**Bachman SL**, Arbogast H, Ruiz P, Farag M, Demeter NE, Upperman JS, Burke RV. A school-hospital partnership increases knowledge of pedestrian and motor vehicle  safety. *Journal of Community Health*. 2015;40(6):1057-64. doi: [10.1007/s10900-015-0031-3](https://doi.org/10.1007/s10900-015-0031-3)
 
-Lin AC, Salzman GA, **Bachman SL**, Burke RV, Zaslow T, Piasek CZ, Edison BR, Hamilton A, Upperman JS. Assessment of parental knowledge and attitudes toward pediatric sports-related concussions. Sports Health. 2015;7(2):124-9. doi: [10.1177/1941738115571570](https://doi.org/10.1177/1941738115571570)
+Lin AC, Salzman GA, **Bachman SL**, Burke RV, Zaslow T, Piasek CZ, Edison BR, Hamilton A, Upperman JS. Assessment of parental knowledge and attitudes toward pediatric sports-related concussions. *Sports Health*. 2015;7(2):124-9. doi: [10.1177/1941738115571570](https://doi.org/10.1177/1941738115571570)
 
-**Bachman SL**, Demeter NE, Lee GG, Burke RV, Valente TW, Upperman JS. The impact of trauma systems on disaster preparedness: A systematic review. Clinical Pediatric Emergency Medicine. 2014;15(4):296-308. doi: [10.1016/j.cpem.2014.09.004](https://doi.org/10.1016/j.cpem.2014.09.004)
+**Bachman SL**, Demeter NE, Lee GG, Burke RV, Valente TW, Upperman JS. The impact of trauma systems on disaster preparedness: A systematic review. *Clinical Pediatric Emergency Medicine*. 2014;15(4):296-308. doi: [10.1016/j.cpem.2014.09.004](https://doi.org/10.1016/j.cpem.2014.09.004)
 
-Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to assess pediatric disaster preparedness in the hospital setting. Prehospital Disaster Medicine. 2014;29(6):1-7. doi: [10.1017/S1049023X14001137](https://doi.org/10.1017/S1049023X14001137)
+Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to assess pediatric disaster preparedness in the hospital setting. *Prehospital Disaster Medicine*. 2014;29(6):1-7. doi: [10.1017/S1049023X14001137](https://doi.org/10.1017/S1049023X14001137)
 
-Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. Neuropsychology. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
+Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. *Neuropsychology*. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
 
 ## Preprints
 
-Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the salient: Emotion rescues otherwise forgettable memories via neural reactivation and post-encoding hippocampal connectivity. bioRxiv 2020.07.07.192252. doi: [10.1101/2020.07.07.192252](https://doi.org/10.1101/2020.07.07.192252)
-
-**Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. bioRxiv 2020.03.14.991596. doi: [10.1101/2020.03.14.991596](https://doi.org/10.1101/2020.03.14.991596)
+Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the salient: Emotion rescues otherwise forgettable memories via neural reactivation and post-encoding hippocampal connectivity. *bioRxiv* 2020.07.07.192252. doi: [10.1101/2020.07.07.192252](https://doi.org/10.1101/2020.07.07.192252)
 
 ## Conference presentations
 
@@ -198,7 +198,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## University Service
 
-`2019-present`
+`2019-2020`
 **Senator**, *Graduate Student Government, University of Southern California*, Los Angeles, CA, USA.
 
 `2010-2013`
@@ -235,4 +235,4 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 <!-- ### Footer
 
-Last updated: November 2020 -->
+Last updated: January 2021 -->
