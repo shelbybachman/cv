@@ -1,0 +1,71 @@
+---
+name: Shelby
+surname: Bachman
+position: "Phd Candidate"
+address: "Davis School of Gerontology, University of Southern California, Los Angeles, CA"
+www: shelbybachman.github.io
+email: "sbachman@usc.edu"
+orcid: 0000-0002-4460-4661
+#researchgate: 
+github: shelbybachman
+#twitter:
+headcolor: 414141 # use black color
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::awesomecv:
+    keep_tex: yes
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+library(here)
+library(vitae)
+library(knitr)
+
+```
+
+# Education
+
+```{r education}
+
+```
+
+# Research Experience
+
+# Awards & Funding
+
+# Publications (peer-reviewed)
+
+```{r publications}
+
+bibliography_entries(here('bib', 'published.bib'))
+
+```
+
+# Preprints (not peer-reviewed)
+
+```{r preprints}
+
+bibliography_entries(here('bib', 'preprints.bib'))
+
+```
+
+# Conference Presentations & Talks
+
+# Poster Presentations
+
+# Teaching
+
+# Mentoring
+
+# University Service
+
+# Academic Service
+
+# Statistical Training
+
+# Skills

@@ -1,0 +1,252 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+%
+% Adapted to be an Rmarkdown template by Mitchell O'Hara-Wild
+% 23 November 2018
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+
+\definecolor{awesome}{HTML}{414141}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\def\endfirstpage{\newpage}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+
+\name{Shelby}{Bachman}
+
+\position{Phd Candidate}
+\address{Davis School of Gerontology, University of Southern California,
+Los Angeles, CA}
+
+\email{\href{mailto:sbachman@usc.edu}{\nolinkurl{sbachman@usc.edu}}}
+\homepage{shelbybachman.github.io}
+\orcid{0000-0002-4460-4661}
+\github{shelbybachman}
+
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \skype{skype-id}
+% \reddit{reddit-id}
+
+
+\usepackage{booktabs}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%------------------------------------------------------------------------------
+
+
+
+% Pandoc CSL macros
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[3] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+% 2019-02-14 Chris Umphlett - add flexibility to the document name in footer, rather than have it be static Curriculum Vitae
+\makecvfooter
+  {March 2021}
+    {Shelby Bachman~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%------------------------------------------------------------------------------
+
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\hypertarget{research-experience}{%
+\section{Research Experience}\label{research-experience}}
+
+\hypertarget{awards-funding}{%
+\section{Awards \& Funding}\label{awards-funding}}
+
+\hypertarget{publications-peer-reviewed}{%
+\section{Publications
+(peer-reviewed)}\label{publications-peer-reviewed}}
+
+\hypertarget{bibliography}{}
+\leavevmode\hypertarget{ref-bachman_locus_2021}{}%
+\CSLLeftMargin{1. }
+\CSLRightInline{Bachman, S. L., Dahl, M. J., Werkle-Bergner, M., Düzel,
+S., Forlim, C. G., Lindenberger, U., Kühn, S., \& Mather, M. (2021).
+Locus coeruleus MRI contrast is associated with cortical thickness in
+older adults. \emph{Neurobiology of Aging}, \emph{100}, 72--82.
+\url{https://doi.org/10.1016/j.neurobiolaging.2020.12.019}}
+
+\leavevmode\hypertarget{ref-kurvers_combining_2018}{}%
+\CSLLeftMargin{2. }
+\CSLRightInline{Kurvers, R. H. J. M., Zoete, A. de, Bachman, S. L.,
+Algra, P. R., \& Ostelo, R. (2018). Combining independent decisions
+increases diagnostic accuracy of reading lumbosacral radiographs and
+magnetic resonance imaging. \emph{PLOS ONE}, \emph{13}(4), e0194128.
+\url{https://doi.org/10.1371/journal.pone.0194128}}
+
+\leavevmode\hypertarget{ref-arbogast_effectiveness_2018}{}%
+\CSLLeftMargin{3. }
+\CSLRightInline{Arbogast, H., Patao, M., Demeter, N., Bachman, S.,
+Devietti, E., Upperman, J. S., \& Burke, R. V. (2018). The effectiveness
+of installing a speed hump in reducing motor vehicle accidents involving
+pedestrians under the age of 21. \emph{Journal of Transport \& Health},
+\emph{8}, 30--34. \url{https://doi.org/10.1016/j.jth.2017.11.004}}
+
+\leavevmode\hypertarget{ref-bachman_observed_2016}{}%
+\CSLLeftMargin{4. }
+\CSLRightInline{Bachman, S. L., Salzman, G. A., Burke, R. V., Arbogast,
+H., Ruiz, P., \& Upperman, J. S. (2016). Observed child restraint misuse
+in a large, urban community: Results from three years of inspection
+events. \emph{Journal of Safety Research}, \emph{56}, 17--22.
+\url{https://doi.org/10.1016/j.jsr.2015.11.005}}
+
+\leavevmode\hypertarget{ref-bachman_schoolhospital_2015}{}%
+\CSLLeftMargin{5. }
+\CSLRightInline{Bachman, S. L., Arbogast, H., Ruiz, P., Farag, M.,
+Demeter, N. E., Upperman, J. S., \& Burke, R. V. (2015). A
+School--Hospital Partnership Increases Knowledge of Pedestrian and Motor
+Vehicle Safety. \emph{Journal of Community Health}, \emph{40}(6),
+1057--1064. \url{https://doi.org/10.1007/s10900-015-0031-3}}
+
+\leavevmode\hypertarget{ref-lin_assessment_2015}{}%
+\CSLLeftMargin{6. }
+\CSLRightInline{Lin, A. C., Salzman, G. A., Bachman, S. L., Burke, R.
+V., Zaslow, T., Piasek, C. Z., Edison, B. R., Hamilton, A., \& Upperman,
+J. S. (2015). Assessment of Parental Knowledge and Attitudes Toward
+Pediatric Sports-Related Concussions. \emph{Sports Health: A
+Multidisciplinary Approach}, \emph{7}(2), 124--129.
+\url{https://doi.org/10.1177/1941738115571570}}
+
+\leavevmode\hypertarget{ref-clewett_age-related_2014}{}%
+\CSLLeftMargin{7. }
+\CSLRightInline{Clewett, D., Bachman, S., \& Mather, M. (2014).
+Age-related reduced prefrontal-amygdala structural connectivity is
+associated with lower trait anxiety. \emph{Neuropsychology},
+\emph{28}(4), 631--642. \url{https://doi.org/10.1037/neu0000060}}
+
+\leavevmode\hypertarget{ref-bachman_impact_2014}{}%
+\CSLLeftMargin{8. }
+\CSLRightInline{Bachman, S. L., Demeter, N. E., Lee, G. G., Burke, R.
+V., Valente, T. W., \& Upperman, J. S. (2014). The Impact of Trauma
+Systems on Disaster Preparedness: A Systematic Review. \emph{Clinical
+Pediatric Emergency Medicine}, \emph{15}(4), 296--308.
+\url{https://doi.org/10.1016/j.cpem.2014.09.004}}
+
+\leavevmode\hypertarget{ref-burke_using_2014}{}%
+\CSLLeftMargin{9. }
+\CSLRightInline{Burke, R. V., Kim, T. Y., Bachman, S. L., Iverson, E.
+I., \& Berg, B. M. (2014). Using Mixed Methods to Assess Pediatric
+Disaster Preparedness in the Hospital Setting. \emph{Prehospital and
+Disaster Medicine}, \emph{29}(6), 569--575.
+\url{https://doi.org/10.1017/S1049023X14001137}}
+
+\hypertarget{preprints-not-peer-reviewed}{%
+\section{Preprints (not
+peer-reviewed)}\label{preprints-not-peer-reviewed}}
+
+\hypertarget{bibliography}{}
+\leavevmode\hypertarget{ref-clewett_survival_2020}{}%
+\CSLLeftMargin{1. }
+\CSLRightInline{Clewett, D., Dunsmoor, J., Bachman, S., Phelps, E., \&
+Davachi, L. (2020). \emph{Survival of the salient: Emotion rescues
+otherwise forgettable memories via neural reactivation and post-encoding
+hippocampal connectivity} {[}Preprint{]}. Neuroscience.
+\url{https://doi.org/10.1101/2020.07.07.192252}}
+
+\hypertarget{conference-presentations-talks}{%
+\section{Conference Presentations \&
+Talks}\label{conference-presentations-talks}}
+
+\hypertarget{poster-presentations}{%
+\section{Poster Presentations}\label{poster-presentations}}
+
+\hypertarget{teaching}{%
+\section{Teaching}\label{teaching}}
+
+\hypertarget{mentoring}{%
+\section{Mentoring}\label{mentoring}}
+
+\hypertarget{university-service}{%
+\section{University Service}\label{university-service}}
+
+\hypertarget{academic-service}{%
+\section{Academic Service}\label{academic-service}}
+
+\hypertarget{statistical-training}{%
+\section{Statistical Training}\label{statistical-training}}
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\end{document}
