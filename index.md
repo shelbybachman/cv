@@ -53,7 +53,7 @@ University of Southern California, Los Angeles, CA, USA<br>
 `2017-2018`
 **Doctoral research**<br>
 Phelps Lab, Department of Psychology<br>
-New York University, Los Angeles, CA, USA<br>
+New York University, New York, NY, USA<br>
 *PI: Dr. Elizabeth Phelps*
 
 `2016-2017`
