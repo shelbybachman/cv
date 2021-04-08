@@ -137,9 +137,9 @@ Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the sali
 
 ## Conference posters
 
-Gallant SN, Min J, **Bachman SL**, Mather M. Retroactive selective memory enhancement via emotional arousal. (2019, November). 60th Annual Meeting of the Psychonomics Society. Montreal, Canada, 2019.
+Gallant SN, Min J, **Bachman SL**, Mather M. Retroactive selective memory enhancement via emotional arousal. 60th Annual Meeting of the Psychonomics Society. Montreal, Canada, 2019.
 
-Nasseri P, Nashiro K, Yoo HJ, Min J, Cho C, **Bachman SL**, Lehrer P, Thayer J, Chang C, Feng T, Narayanan S, Mather M. (2019, October). Daily practice of heart rate variability biofeedback training affects brain activity during social decision making. Society for Neuroscience Annual Meeting. Chicago, IL, 2019.
+Nasseri P, Nashiro K, Yoo HJ, Min J, Cho C, **Bachman SL**, Lehrer P, Thayer J, Chang C, Feng T, Narayanan S, Mather M. Daily practice of heart rate variability biofeedback training affects brain activity during social decision making. Society for Neuroscience Annual Meeting. Chicago, IL, 2019.
 
 Clewett D, Yi D, **Bachman SL**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society. Boston, MA, 2018.
 
