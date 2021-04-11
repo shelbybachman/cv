@@ -105,7 +105,7 @@ Childrens Hospital Los Angeles, Los Angeles, CA, USA<br>
 `2009-2013`
 **USC Trustee Scholarship**
 
-## Publications
+## Peer-reviewed publications
 
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Forlim CG, Lindenberger U, Kühn S, Mather M. Locus coeruleus MRI contrast is associated with cortical thickness in older adults. *Neurobiology of Aging*. 2021;100;72-82. doi: [10.1016/j.neurobiolaging.2020.12.019](https://doi.org/10.1016/j.neurobiolaging.2020.12.019) / [preprint](https://doi.org/10.1101/2020.03.14.991596)
 
@@ -125,11 +125,13 @@ Burke RV, Kim TY, **Bachman SL**, Iverson EI, Berg BM. Using mixed methods to as
 
 Clewett D, **Bachman S**, Mather M. Age-related reduced prefrontal-amygdala structural connectivity is associated with lower trait anxiety. *Neuropsychology*. 2014 Jul;28(4):631-42. doi: [10.1037/neu0000060](https://dx.doi.org/10.1037%2Fneu0000060)
 
-## Preprints
+## Preprints (not peer-reviewed)
 
 Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the salient: Emotion rescues otherwise forgettable memories via neural reactivation and post-encoding hippocampal connectivity. *bioRxiv* 2020.07.07.192252. doi: [10.1101/2020.07.07.192252](https://doi.org/10.1101/2020.07.07.192252)
 
-## Conference presentations
+## Conference presentations & other talks
+
+**Bachman SL**. Linking locus coeruleus integrity to cortical thickness in aging. University of Southern California Center for Lifespan Health Trainee Talks. Virtual, 2021.
 
 **Bachman SL**, Dahl MJ, Werkle-Bergner M, Düzel S, Lindenberger U, Kühn S, Mather M. Locus coeruleus integrity is associated with cortical thickness in older adults. To be presented at the 2020 Cognitive Aging Conference (*cancelled due to COVID-19*).
 
@@ -137,25 +139,27 @@ Clewett D, Dunsmoor J, **Bachman SL**, Phelps E, Davachi L. Survival of the sali
 
 ## Conference posters
 
-Gallant SN, Min J, **Bachman SL**, Mather M. Retroactive selective memory enhancement via emotional arousal. 60th Annual Meeting of the Psychonomics Society. Montreal, Canada, 2019.
+Gallant SN, Kennedy BL, **Bachman SL**, Huang R, Mather M. Arousal enhances bottom-up attention and memory selectivity in young but not older adults: Behavioral and fMRI evidence. Cognitive Neuroscience Society Annual Meeting. Virtual, 2021.
+
+Gallant SN, Min J, **Bachman SL**, Mather M. Retroactive selective memory enhancement via emotional arousal. Annual Meeting of the Psychonomics Society. Montreal, Canada, 2019.
 
 Nasseri P, Nashiro K, Yoo HJ, Min J, Cho C, **Bachman SL**, Lehrer P, Thayer J, Chang C, Feng T, Narayanan S, Mather M. Daily practice of heart rate variability biofeedback training affects brain activity during social decision making. Society for Neuroscience Annual Meeting. Chicago, IL, 2019.
 
-Clewett D, Yi D, **Bachman SL**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society. Boston, MA, 2018.
+Clewett D, Yi D, **Bachman SL**, Dunsmoor J, Phelps E, Davachi L. Brain mechanisms by which emotion selectively and retroactively enhances memory for related information. Cognitive Neuroscience Society Annual Meeting. Boston, MA, 2018.
 
-Arbogast H, **Bachman SL**, Gu Y, Arriaga A, Burke RV, Upperman JS. Increasing safety in transportation of children with special healthcare needs: A closer look at a pediatric hospital’s approach to addressing gaps. 143rd APHA Annual Meeting. Chicago, IL, 2015.
+Arbogast H, **Bachman SL**, Gu Y, Arriaga A, Burke RV, Upperman JS. Increasing safety in transportation of children with special healthcare needs: A closer look at a pediatric hospital’s approach to addressing gaps. American Public Health Association Annual Meeting. Chicago, IL, 2015.
 
-Gu Y, Demeter NE, **Bachman SL**, Burke RV, Komlofske K, Bliss D. The association  between repeat head computed tomography scan and neurosurgical intervention in pediatric traumatic brain injury. 143rd APHA Annual Meeting. Chicago, IL, 2015.
+Gu Y, Demeter NE, **Bachman SL**, Burke RV, Komlofske K, Bliss D. The association  between repeat head computed tomography scan and neurosurgical intervention in pediatric traumatic brain injury. American Public Health Association Annual Meeting. Chicago, IL, 2015.
 
 **Bachman SL**, Arbogast H, Arriaga A. Evaluating a Pediatric Hospital’s Car Seat Loaner Program: Improving Patient Child Passenger Safety. Kidz in Motion Annual Child Passenger Safety Conference. Orlando, FL, 2015. 
 
 Lin AC, Salzman GA, **Bachman SL**, Burke RV, Zaslow T, Piasek C, Edison B, Hamilton A, Upperman JS. Quantitative Assessment of Parental Knowledge and Attitudes Toward Pediatric Sports-related Concussions. American College of Sports Medicine Annual Meeting. San Diego, CA, 2015.
 
-**Bachman SL**, Arbogast H, Burke RV, Ruiz P, Upperman JS. An Innovative School-    Hospital Partnership Increases Knowledge of Pedestrian and Motor Vehicle Safety. Pediatric Academic Societies Annual Meeting. San Diego, CA, 2015.
+**Bachman SL**, Arbogast H, Burke RV, Ruiz P, Upperman JS. An Innovative School-Hospital Partnership Increases Knowledge of Pedestrian and Motor Vehicle Safety. Pediatric Academic Societies Annual Meeting. San Diego, CA, 2015.
 
 Cleek EA, Salzman GA, **Bachman SL**, Burke RV, Upperman JS. Assessment of a Newly Implemented Pediatric Trauma Transfer Policy. Society of Trauma Nurses Annual Conference. Jacksonville, FL, 2015.
 
-**Bachman SL**, Salzman GA, Burke RV, Arbogast H, Ruiz P, Upperman JS. Identifying Common Errors in Child Restraint Use. 142nd APHA Annual Meeting. New Orleans, LA, 2014.
+**Bachman SL**, Salzman GA, Burke RV, Arbogast H, Ruiz P, Upperman JS. Identifying Common Errors in Child Restraint Use. American Public Health Association Annual Meeting. New Orleans, LA, 2014.
 
 Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and losers: Arousal-biased competition and memory. Western Psychological Association Convention. San Francisco, CA, 2012.
 
@@ -207,6 +211,12 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 `2010-2012`
 **Resident Advisor**, *Department of Residential Education, University of Southern California*, Los Angeles, CA, USA. Served as RA for Leadership Floor in 2010-2011 and Women in Science & Engineering Floor in 2011-2012.
 
+## Academic Service
+
+`2021` **Preprint Fellow**, Accelerating Science and Publication in Biology (ASAPbio)
+
+`2021-present` **Ambassador**, Center for Open Science
+
 ## Statistical Training
 
 `2020`
@@ -227,12 +237,12 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Skills
 
-**Programming:** R, Python, MATLAB, Bash, HTML5
+**Programming:** R, MATLAB, Bash, HTML5
 
-**Software/Tools:** Git, Freesurfer, FSL, Psychtoolbox, Acqknowledge
+**Software/Tools:** Git, Psychopy, Psychtoolbox, Freesurfer, FSL 
 
 **Languages:** English (native), German (fluent), French (basic)
 
 <!-- ### Footer
 
-Last updated: January 2021 -->
+Last updated: April 2021 -->
