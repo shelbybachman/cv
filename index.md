@@ -217,7 +217,10 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 `2021-present` **Ambassador**, Center for Open Science
 
-## Statistical Training
+## Training
+
+`2021`
+**Code in Place: Introductory python programming**, *Stanford University*, virtual. [final project](https://codeinplace.stanford.edu/2021/showcase/494)
 
 `2020`
 **Structural Equation Modeling with lavaan**, *Ghent University*, Belgium
@@ -237,7 +240,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 ## Skills
 
-**Programming:** R, MATLAB, Bash, HTML5
+**Programming:** R, python, MATLAB, Bash, HTML5
 
 **Software/Tools:** Git, Psychopy, Psychtoolbox, Freesurfer, FSL 
 
@@ -245,4 +248,4 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 
 <!-- ### Footer
 
-Last updated: April 2021 -->
+Last updated: June 2021 -->
