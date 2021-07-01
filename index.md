@@ -220,7 +220,7 @@ Foertsch A, Meinders C, **Bachman S**, Chug, E, and Mather, M. Winners and loser
 ## Training
 
 `2021`
-**Code in Place: Introductory python programming**, *Stanford University*, virtual. [final project](https://codeinplace.stanford.edu/2021/showcase/494)
+**Code in Place: Introductory python programming**, *Stanford University*, virtual. [final project](https://codeinplace.stanford.edu/2021/showcase/558)
 
 `2020`
 **Structural Equation Modeling with lavaan**, *Ghent University*, Belgium
